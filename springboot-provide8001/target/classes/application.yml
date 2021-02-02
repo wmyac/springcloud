@@ -1,6 +1,6 @@
 spring:
   application:
-    name: springcloud-provider8002
+    name: springcloud-provider
   datasource:
     password: 123456
     username: root

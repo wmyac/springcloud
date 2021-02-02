@@ -8,10 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springbooteureka7001" />
-        <module name="springbooteureka7002" />
+        <module name="springbootapi" />
         <module name="springbootprovide8001" />
         <module name="springbootprovide8002" />
-        <module name="springbootapi" />
+        <module name="springbooteureka7002" />
       </profile>
     </annotationProcessing>
   </component>
