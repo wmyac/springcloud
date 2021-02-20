@@ -1,16 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a66251aa-0541-4eb2-aeb9-7f0a7c85ee8b" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-api/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-provide8001/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-eureka7001/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-eureka7002/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-provide8002/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-order80/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="a66251aa-0541-4eb2-aeb9-7f0a7c85ee8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot-HystrixDashboard9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-HystrixDashboard9001/src/main/java/com/moyu/SpringBootHystrixDashboard9001Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-HystrixDashboard9001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-config-service3344/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-config-service3344/src/main/java/com/moyu/SpringBootConfigService3344Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-config-service3344/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-feign-hystrix-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-feign-hystrix-order80/src/main/java/com/moyu/SpringBootHystrix80Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-feign-hystrix-order80/src/main/java/com/moyu/controller/HystrixOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-feign-hystrix-order80/src/main/java/com/moyu/service/HystrixOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-feign-hystrix-order80/src/main/java/com/moyu/service/HystrixOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-feign-hystrix-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-gateway9527/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-gateway9527/src/main/java/com/moyu/SpringBootGateway9527Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-gateway9527/src/main/java/com/moyu/firter/GateWayFirter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-gateway9527/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-provide-hystrix8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-provide-hystrix8001/src/main/java/com/mou/SpringBootHystrix8001Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-provide-hystrix8001/src/main/java/com/mou/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-provide-hystrix8001/src/main/java/com/mou/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-provide-hystrix8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbot-order-openFeign80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbot-order-openFeign80/src/main/java/com/moyu/SpringBootOrderFeign80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbot-order-openFeign80/src/main/java/com/moyu/config/FeingConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbot-order-openFeign80/src/main/java/com/moyu/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbot-order-openFeign80/src/main/java/com/moyu/service/FeignOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbot-order-openFeign80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-eureka7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-eureka7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-eureka7001/target/classes/META-INF/springbooteureka7001.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-eureka7001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-eureka7001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-order80/target/classes/com/moyu/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-order80/target/classes/com/moyu/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-provide8001/src/main/java/com/moyu/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-provide8001/src/main/java/com/moyu/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-provide8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-provide8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-provide8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-provide8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-provide8001/target/classes/com/moyu/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-provide8001/target/classes/com/moyu/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-provide8002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-provide8002/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-provide8002/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-provide8002/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-provide8002/target/classes/com/moyu/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-provide8002/target/classes/com/moyu/controller/UserController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,161 +67,16 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-order80/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/SpringBootOrder80.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/respository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.1.RELEASE/spring-cloud-netflix-ribbon-2.2.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/config/MyRestTemplate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/SpringbootProvide8002Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/java/com/mylrule/MyIRule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/respository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/IRule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/springboot-api/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-api/src/main/java/entity/User.java" />
-        <option value="$PROJECT_DIR$/springboot-api/src/main/java/com/moyu/entity/User.java" />
-        <option value="$PROJECT_DIR$/springboot-provide8001/src/main/java/moyu/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/springboot-provide8001/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-provide8001/src/main/java/com/moyu/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/springboot-eureka7001/src/main/java/com/moyu/SpringcloudeEureka7002Application.java" />
-        <option value="$PROJECT_DIR$/springboot-eureka7001/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-eureka7002/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-eureka7002/src/main/java/com/moyu/SpringcloudeEureka7002Application.java" />
-        <option value="$PROJECT_DIR$/springboot-eureka7002/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springboot-eureka7001/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springboot-provide8002/src/main/java/moyu/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/springboot-provide8002/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/SpringbootProvide8001Application.java" />
-        <option value="$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/SpringbootProvide8002Application.java" />
-        <option value="$PROJECT_DIR$/springboot-provide8001/src/main/java/com/moyu/SpringbootProvide8001Application.java" />
-        <option value="$PROJECT_DIR$/springboot-provide8002/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springboot-provide8001/src/main/resources/application.yml" />
-        <option value="D:/apache-maven-3.5.4/conf/settings.xml" />
-        <option value="$PROJECT_DIR$/springboot-order80/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springboot-provide8001/src/main/resources/mapper/userMapper.xml" />
-        <option value="$PROJECT_DIR$/springboot-provide8002/src/main/resources/mapper/userMapper.xml" />
-        <option value="$PROJECT_DIR$/springboot-order80/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/config/MyRestTemplate.java" />
-        <option value="$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/SpringBootOrder80.java" />
-        <option value="$PROJECT_DIR$/springboot-order80/src/main/java/com/mylrule/MyIRule.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -203,49 +92,26 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot-order80" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot-order80" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
-    <option name="height" value="1032" />
-  </component>
+  <component name="ProjectId" id="1ogCdziNBIJKGHg5wQrLiD3bACS" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-student" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-config-service3344/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -257,50 +123,68 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.21047795" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.moyu.config" />
       <recent name="com.moyu.controller" />
       <recent name="com.moyu" />
       <recent name="entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\93955\Desktop\student\springcloud\springboot-config-service3344\src\main\resources" />
+      <recent name="C:\Users\93955\Desktop\student\springcloud\springboot-feign-hystrix-order80\src\main\resources" />
+      <recent name="C:\Users\93955\Desktop\student\springcloud\springboot-provide-hystrix8001\src\main\resources" />
+      <recent name="C:\Users\93955\Desktop\student\springcloud\springbot-order-openFeign80\src\main\resources" />
       <recent name="E:\springcloud\springboot-order80\src\main\resources" />
-      <recent name="E:\springcloud\springboot-provide8002\src\main\resources" />
-      <recent name="E:\springcloud\springboot-provide8002\src\main\java" />
-      <recent name="E:\springcloud\springboot-eureka7002\src\main\resources" />
-      <recent name="E:\springcloud\springboot-eureka7001\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootOrder80">
-    <configuration name="SpringBootOrder80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springbootorder80" />
+  <component name="RunManager" selected="Spring Boot.SpringBootConfigService3344Main">
+    <configuration name="SpringBootConfigService3344Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-config-service3344" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.moyu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyu.SpringBootOrder80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyu.SpringBootConfigService3344Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootGateway9527Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-gateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyu.SpringBootGateway9527Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootHystrix8001Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-provide-hystrix8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mou.SpringBootHystrix8001Main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SpringbootProvide8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springbootprovide8001" />
+      <module name="springboot-provide8001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.moyu.*" />
@@ -312,21 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootProvide8002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springbootprovide8002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.moyu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyu.SpringbootProvide8002Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpringcloudeEureka7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springbooteureka7001" />
+      <module name="springboot-eureka7001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.moyu.*" />
@@ -338,26 +209,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringcloudeEureka7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springbooteureka7002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.moyu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyu.SpringcloudeEureka7002Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SpringBootOrder80" />
-        <item itemvalue="Spring Boot.SpringbootProvide8002Application" />
+        <item itemvalue="Spring Boot.SpringBootConfigService3344Main" />
+        <item itemvalue="Spring Boot.SpringBootGateway9527Main" />
         <item itemvalue="Spring Boot.SpringbootProvide8001Application" />
-        <item itemvalue="Spring Boot.SpringcloudeEureka7002Application" />
         <item itemvalue="Spring Boot.SpringcloudeEureka7001Application" />
+        <item itemvalue="Spring Boot.SpringBootHystrix8001Main" />
       </list>
     </recent_temporary>
   </component>
@@ -375,360 +233,113 @@
       <workItem from="1612268760013" duration="372000" />
       <workItem from="1612313199931" duration="1278000" />
       <workItem from="1612314847467" duration="3434000" />
+      <workItem from="1613698943796" duration="25423000" />
+      <workItem from="1613786607742" duration="15475000" />
+      <workItem from="1613833683206" duration="281000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14917000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3025751" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295711" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.72460496" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3295711" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295711" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.3299356" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Word Book" order="6" side_tool="true" weight="0.3299356" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.IntelliJIdea2019.1/system/log/idea.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10080" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-api/src/main/java/com/moyu/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="38" selection-start-line="4" selection-start-column="2" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/respository/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.1.RELEASE/spring-cloud-netflix-eureka-client-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://D:/respository/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.1.RELEASE/spring-cloud-netflix-eureka-client-2.2.1.RELEASE.jar!/META-INF/spring-configuration-metadata.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-eureka7001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="47" selection-end-column="19" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-eureka7002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-eureka7002/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-eureka7001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2760">
-          <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-eureka7001/src/main/java/com/moyu/SpringcloudeEureka7001Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/respository/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.2.RELEASE/spring-boot-actuator-autoconfigure-2.2.2.RELEASE.jar!/META-INF/spring-configuration-metadata.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-eureka7002/src/main/java/com/moyu/SpringcloudeEureka7002Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" selection-start-line="12" selection-end-line="91" selection-end-column="19" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-order80/springbootorder80.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/apache-maven-3.6.3/conf/settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="273" lean-forward="true" selection-end-line="285" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/apache-maven-3.5.4/conf/settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="285" selection-start-line="285" selection-end-line="285" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/respository/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="331" column="55" selection-start-line="331" selection-start-column="55" selection-end-line="331" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8001/src/main/java/com/moyu/SpringbootProvide8001Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8001/src/main/java/com/moyu/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8001/src/main/java/com/moyu/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8001/src/main/java/com/moyu/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8001/src/main/java/com/moyu/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8001/src/main/resources/mapper/userMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8002/src/main/resources/mapper/userMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8002/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-provide8002/src/main/java/com/moyu/SpringbootProvide8002Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-order80/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/respository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/IRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/respository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.1.RELEASE/spring-cloud-netflix-ribbon-2.2.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/java/com/mylrule/MyIRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/config/MyRestTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-order80/src/main/java/com/moyu/SpringBootOrder80.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1613749058185">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="354" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1097.577@0.0.1097.577" timestamp="1613749058185" />
+    <state x="95" y="214" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1613741985697">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="95" y="214" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1097.577@0.0.1097.577" timestamp="1613741985697" />
+    <state x="423" y="60" key="FileChooserDialogImpl" timestamp="1613833600989">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="423" y="60" key="FileChooserDialogImpl/0.0.1097.577@0.0.1097.577" timestamp="1613833600989" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613719932206" />
+    <state width="1054" height="237" key="GridCell.Tab.0.bottom" timestamp="1613833614808">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1054" height="237" key="GridCell.Tab.0.bottom/0.0.1097.577@0.0.1097.577" timestamp="1613833614808" />
+    <state width="1877" height="381" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613720432880" />
+    <state width="1236" height="381" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1613724375056" />
+    <state width="1054" height="237" key="GridCell.Tab.0.center" timestamp="1613833614807">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1054" height="237" key="GridCell.Tab.0.center/0.0.1097.577@0.0.1097.577" timestamp="1613833614807" />
+    <state width="1877" height="381" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613720432879" />
+    <state width="1236" height="381" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1613724375047" />
+    <state width="1054" height="237" key="GridCell.Tab.0.left" timestamp="1613833614807">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1054" height="237" key="GridCell.Tab.0.left/0.0.1097.577@0.0.1097.577" timestamp="1613833614807" />
+    <state width="1877" height="381" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613720432878" />
+    <state width="1236" height="381" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1613724375044" />
+    <state width="1054" height="237" key="GridCell.Tab.0.right" timestamp="1613833614808">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1054" height="237" key="GridCell.Tab.0.right/0.0.1097.577@0.0.1097.577" timestamp="1613833614808" />
+    <state width="1877" height="381" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613720432879" />
+    <state width="1236" height="381" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1613724375052" />
+    <state width="1054" height="237" key="GridCell.Tab.1.bottom" timestamp="1613833614809">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1054" height="237" key="GridCell.Tab.1.bottom/0.0.1097.577@0.0.1097.577" timestamp="1613833614809" />
+    <state width="1877" height="381" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613720432884" />
+    <state width="1236" height="381" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1613724375064" />
+    <state width="1054" height="237" key="GridCell.Tab.1.center" timestamp="1613833614809">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1054" height="237" key="GridCell.Tab.1.center/0.0.1097.577@0.0.1097.577" timestamp="1613833614809" />
+    <state width="1877" height="381" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613720432881" />
+    <state width="1236" height="381" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1613724375062" />
+    <state width="1054" height="237" key="GridCell.Tab.1.left" timestamp="1613833614809">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1054" height="237" key="GridCell.Tab.1.left/0.0.1097.577@0.0.1097.577" timestamp="1613833614809" />
+    <state width="1877" height="381" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613720432880" />
+    <state width="1236" height="381" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1613724375057" />
+    <state width="1054" height="237" key="GridCell.Tab.1.right" timestamp="1613833614809">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1054" height="237" key="GridCell.Tab.1.right/0.0.1097.577@0.0.1097.577" timestamp="1613833614809" />
+    <state width="1877" height="381" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613720432882" />
+    <state width="1236" height="381" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1613724375063" />
+    <state width="1877" height="468" key="GridCell.Tab.2.bottom" timestamp="1613749530944">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1877" height="468" key="GridCell.Tab.2.bottom/0.0.1097.577@0.0.1097.577" timestamp="1613749530944" />
+    <state width="1877" height="468" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613718552915" />
+    <state width="1877" height="468" key="GridCell.Tab.2.center" timestamp="1613749530939">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1877" height="468" key="GridCell.Tab.2.center/0.0.1097.577@0.0.1097.577" timestamp="1613749530939" />
+    <state width="1877" height="468" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613718552914" />
+    <state width="1877" height="468" key="GridCell.Tab.2.left" timestamp="1613749530939">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1877" height="468" key="GridCell.Tab.2.left/0.0.1097.577@0.0.1097.577" timestamp="1613749530939" />
+    <state width="1877" height="468" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613718552913" />
+    <state width="1877" height="468" key="GridCell.Tab.2.right" timestamp="1613749530942">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1877" height="468" key="GridCell.Tab.2.right/0.0.1097.577@0.0.1097.577" timestamp="1613749530942" />
+    <state width="1877" height="468" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613718552914" />
+    <state x="50" y="0" key="SettingsEditor" timestamp="1613833985467">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="50" y="0" key="SettingsEditor/0.0.1097.577@0.0.1097.577" timestamp="1613833985467" />
+    <state x="0" y="0" key="new project wizard" timestamp="1613831230428">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1097.577@0.0.1097.577" timestamp="1613831230428" />
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1613703785955" />
+    <state x="211" y="0" width="672" height="575" key="search.everywhere.popup" timestamp="1613825375628">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="211" y="0" width="672" height="575" key="search.everywhere.popup/0.0.1097.577@0.0.1097.577" timestamp="1613825375628" />
   </component>
   <component name="masterDetails">
     <states>

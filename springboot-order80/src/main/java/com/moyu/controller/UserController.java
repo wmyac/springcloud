@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestTemplate;
 
 @RestController
-@RequestMapping("order")
+@RequestMapping("/order")
 public class UserController {
     @Autowired
     private RestTemplate RestTemplate;

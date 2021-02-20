@@ -7,12 +7,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springbooteureka7002" />
-        <module name="springbootorder80" />
         <module name="springbootapi" />
-        <module name="springbooteureka7001" />
+        <module name="springboot-gateway9527" />
+        <module name="springbootorder80" />
+        <module name="springboot-feign-hystrix-order80" />
+        <module name="springboot-eureka7002" />
+        <module name="springboot-eureka7001" />
+        <module name="springboot-order80" />
         <module name="springbootprovide8002" />
         <module name="springbootprovide8001" />
+        <module name="springbooteureka7001" />
+        <module name="springbooteureka7002" />
+        <module name="springboot-api" />
+        <module name="springboot-provide8002" />
+        <module name="springboot-provide8001" />
+        <module name="springboot-provide-hystrix8001" />
+        <module name="springbot-order-openFeign80" />
+        <module name="springboot-config-service3344" />
+        <module name="springboot-HystrixDashboard9001" />
       </profile>
     </annotationProcessing>
   </component>

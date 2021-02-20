@@ -15,6 +15,12 @@
         <module>springboot-eureka7002</module>
         <module>springboot-provide8002</module>
         <module>springboot-order80</module>
+        <module>springbot-order-openFeign80</module>
+        <module>springboot-provide-hystrix8001</module>
+        <module>springboot-feign-hystrix-order80</module>
+        <module>springboot-HystrixDashboard9001</module>
+        <module>springboot-gateway9527</module>
+        <module>springboot-config-service3344</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->
